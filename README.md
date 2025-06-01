@@ -1,10 +1,8 @@
 <!-- Profile README for Mykhailo Yarytskyi aka mmmihaeel -->
 
 <h1 align="center">
- <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=42B883&center=true&vCenter=true&width=435&lines=👋+Hi+there%2C+I'm+Mykhailo+Yarytskyi!;Full-Stack+Web+Developer;JavaScript%2C+TypeScript%2C+React%2C+Node.js;Building+impactful+web+solutions!" alt="Typing SVG" />
+  [![👋 Hi there, I'm Mykhailo Yarytskyi](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Mykhailo+Yarytskyi)](https://git.io/typing-svg)
 </h1>
-
-[![👋 Hi there, I'm Mykhailo Yarytskyi](https://readme-typing-svg.demolab.com/?lines=👋+Hi+there,+I'm+Mykhailo+Yarytskyi)](https://git.io/typing-svg)
 
 ---
 
