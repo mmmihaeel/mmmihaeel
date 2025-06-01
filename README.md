@@ -4,6 +4,8 @@
  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=42B883&center=true&vCenter=true&width=435&lines=👋+Hi+there%2C+I'm+Mykhailo+Yarytskyi!;Full-Stack+Web+Developer;JavaScript%2C+TypeScript%2C+React%2C+Node.js;Building+impactful+web+solutions!" alt="Typing SVG" />
 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 ---
 
 ### 🌟 About Me
