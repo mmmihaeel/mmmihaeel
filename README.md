@@ -66,7 +66,7 @@ Here are some of my favorite projects, built with 💡 creativity and 💻 techn
 ### 📬 Let's Connect!
 
 - 📧 **Email:** [mikael11032005@gmail.com](mailto:mikael11032005@gmail.com)  
-- 💼 **LinkedIn:** [Mykhailo Yarytskyi](https://www.linkedin.com/in/mykhailo-yarytskyi330aa0284/)  
+- 💼 **LinkedIn:** [Mykhailo Yarytskyi](https://www.linkedin.com/in/mykhailo-yarytskyi-330aa0284/)  
 - 💻 **GitHub:** [mmmihaeel](https://github.com/mmmihaeel)  
 - 🌐 **Portfolio:** [mmmihaeel.webflow.io](https://mmmihaeel.webflow.io/)  
 - 🧞 **Djinni:** [My Profile](https://djinni.co/q/c61ec73462/)
