@@ -1,7 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Profile portfolio map placeholder</title>
-  <desc id="desc">Dark neutral placeholder graphic for the portfolio map section of the profile README.</desc>
-  <rect width="1200" height="280" fill="#0d1117"/>
-  <rect x="24" y="24" width="1152" height="232" rx="24" fill="#11161d" stroke="#2a313c" stroke-width="2"/>
-  <text x="600" y="150" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">profile / portfolio map placeholder</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360">
+  <defs>
+    <style>
+.bg { fill: #0B1120; }
+.card-bg { fill: #0F172A; stroke: #1E293B; stroke-width: 1; }
+.header-text { fill: #94A3B8; font-family: system-ui, -apple-system, sans-serif; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; }
+.item-text { fill: #E2E8F0; font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 500; }
+.col-line { stroke: #1E293B; stroke-width: 2; }
+    </style>
+  </defs>
+  <rect width="1280" height="360" class="bg" />
+  <g transform="translate(60, 0)">
+    <text x="0" y="60" class="header-text">BACKEND &amp; ACCESS</text>
+    <line x1="0" y1="80" x2="260" y2="80" class="col-line" />
+
+    <rect x="0" y="110" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="126" width="4" height="24" rx="2" fill="#3B82F6" />
+    <text x="26" y="144" class="item-text">Deal Room API</text>
+  </g>
+  <g transform="translate(360, 0)">
+    <text x="0" y="60" class="header-text">WORKFLOW &amp; INT.</text>
+    <line x1="0" y1="80" x2="260" y2="80" class="col-line" />
+
+    <rect x="0" y="110" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="126" width="4" height="24" rx="2" fill="#06B6D4" />
+    <text x="26" y="144" class="item-text">Conference Orchestrator</text>
+
+    <rect x="0" y="180" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="196" width="4" height="24" rx="2" fill="#8B5CF6" />
+    <text x="26" y="214" class="item-text">Integration Gateway</text>
+  </g>
+  <g transform="translate(660, 0)">
+    <text x="0" y="60" class="header-text">REALTIME &amp; OPS</text>
+    <line x1="0" y1="80" x2="260" y2="80" class="col-line" />
+
+    <rect x="0" y="110" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="126" width="4" height="24" rx="2" fill="#10B981" />
+    <text x="26" y="144" class="item-text">Realtime Ops Platform</text>
+
+    <rect x="0" y="180" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="196" width="4" height="24" rx="2" fill="#10B981" />
+    <text x="26" y="214" class="item-text">Ops Monitor</text>
+  </g>
+  <g transform="translate(960, 0)">
+    <text x="0" y="60" class="header-text">ANALYTICS &amp; INFRA</text>
+    <line x1="0" y1="80" x2="260" y2="80" class="col-line" />
+
+    <rect x="0" y="110" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="126" width="4" height="24" rx="2" fill="#F59E0B" />
+    <text x="26" y="144" class="item-text">PG Analytics Service</text>
+
+    <rect x="0" y="180" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="196" width="4" height="24" rx="2" fill="#F97316" />
+    <text x="26" y="214" class="item-text">Linux Infra Lab</text>
+
+    <rect x="0" y="250" width="260" height="56" rx="8" class="card-bg" />
+    <rect x="10" y="266" width="4" height="24" rx="2" fill="#F97316" />
+    <text x="26" y="284" class="item-text">Platform Delivery Lab</text>
+  </g>
 </svg>

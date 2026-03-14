@@ -1,7 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Profile systems focus placeholder</title>
-  <desc id="desc">Dark neutral placeholder graphic for the systems focus section of the profile README.</desc>
-  <rect width="1200" height="280" fill="#0d1117"/>
-  <rect x="24" y="24" width="1152" height="232" rx="24" fill="#11161d" stroke="#2a313c" stroke-width="2"/>
-  <text x="600" y="150" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">profile / systems focus placeholder</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" width="1280" height="300">
+  <defs>
+    <style>
+.bg { fill: #0B1120; }
+.pill-bg { fill: #1E293B; stroke: #334155; stroke-width: 1; }
+.pill-text { fill: #F8FAFC; font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 600; }
+.connector { stroke: #334155; stroke-width: 2; fill: none; }
+    </style>
+  </defs>
+  <rect width="1280" height="300" class="bg" />
+  <g id="connectors">
+    <line x1="280" y1="150" x2="380" y2="90" class="connector" />
+    <line x1="280" y1="150" x2="380" y2="210" class="connector" />
+    <line x1="600" y1="90" x2="700" y2="90" class="connector" />
+    <line x1="600" y1="90" x2="700" y2="210" class="connector" />
+
+    <line x1="600" y1="210" x2="700" y2="90" class="connector" />
+    <line x1="600" y1="210" x2="700" y2="210" class="connector" />
+
+    <line x1="920" y1="90" x2="1020" y2="150" class="connector" />
+    <line x1="920" y1="210" x2="1020" y2="150" class="connector" />
+  </g>
+  <g id="nodes">
+    <g transform="translate(60, 120)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#3B82F6" />
+      <text x="48" y="35" class="pill-text">Access Control</text>
+    </g>
+    <g transform="translate(380, 60)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#06B6D4" />
+      <text x="48" y="35" class="pill-text">Integrations</text>
+    </g>
+
+    <g transform="translate(380, 180)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#8B5CF6" />
+      <text x="48" y="35" class="pill-text">Queues / Retries</text>
+    </g>
+
+    <g transform="translate(700, 60)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#F59E0B" />
+      <text x="48" y="35" class="pill-text">Analytics</text>
+    </g>
+
+    <g transform="translate(700, 180)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#10B981" />
+      <text x="48" y="35" class="pill-text">Reliability</text>
+    </g>
+
+    <g transform="translate(1020, 120)">
+      <rect width="220" height="60" rx="30" class="pill-bg" />
+      <circle cx="30" cy="30" r="6" fill="#F97316" />
+      <text x="48" y="35" class="pill-text">Infrastructure</text>
+    </g>
+  </g>
 </svg>

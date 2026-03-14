@@ -1,7 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Profile engineering scope placeholder</title>
-  <desc id="desc">Dark neutral placeholder graphic for the engineering scope section of the profile README.</desc>
-  <rect width="1200" height="280" fill="#0d1117"/>
-  <rect x="24" y="24" width="1152" height="232" rx="24" fill="#11161d" stroke="#2a313c" stroke-width="2"/>
-  <text x="600" y="150" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">profile / engineering scope placeholder</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320">
+  <defs>
+    <style>
+.bg { fill: #0B1120; }
+.card-bg { fill: #1E293B; stroke: #334155; stroke-width: 1; }
+.text-title { fill: #F8FAFC; font-family: system-ui, -apple-system, sans-serif; font-size: 20px; font-weight: 600; }
+    </style>
+  </defs>
+  <rect width="1280" height="320" class="bg" />
+  <g transform="translate(60, 40)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#3B82F6" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#3B82F6" />
+    <text x="75" y="56" class="text-title">Backend Systems</text>
+  </g>
+  <g transform="translate(460, 40)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#06B6D4" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#06B6D4" />
+    <text x="75" y="56" class="text-title">Integrations</text>
+  </g>
+  <g transform="translate(860, 40)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#8B5CF6" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#8B5CF6" />
+    <text x="75" y="56" class="text-title">Async Processing</text>
+  </g>
+  <g transform="translate(60, 180)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#F59E0B" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#F59E0B" />
+    <text x="75" y="56" class="text-title">Data Services</text>
+  </g>
+  <g transform="translate(460, 180)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#10B981" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#10B981" />
+    <text x="75" y="56" class="text-title">Operational Tooling</text>
+  </g>
+  <g transform="translate(860, 180)">
+    <rect width="360" height="100" rx="12" class="card-bg" />
+    <circle cx="40" cy="50" r="14" fill="#F97316" fill-opacity="0.15" />
+    <circle cx="40" cy="50" r="6" fill="#F97316" />
+    <text x="75" y="56" class="text-title">Platform Delivery</text>
+  </g>
 </svg>
