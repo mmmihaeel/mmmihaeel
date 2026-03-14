@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Profile portfolio map placeholder</title>
+  <desc id="desc">Dark neutral placeholder graphic for the portfolio map section of the profile README.</desc>
+  <rect width="1200" height="280" fill="#0d1117"/>
+  <rect x="24" y="24" width="1152" height="232" rx="24" fill="#11161d" stroke="#2a313c" stroke-width="2"/>
+  <text x="600" y="150" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="28" text-anchor="middle">profile / portfolio map placeholder</text>
+</svg>
